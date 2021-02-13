@@ -1,0 +1,7 @@
+public Class part2 {
+
+public part2() {
+}
+
+System.out.println("Again");
+}
