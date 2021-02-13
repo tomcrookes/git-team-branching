@@ -1,5 +1,0 @@
-public class Mack {
-
-  system.out.println("What's up");
-  
-  }
