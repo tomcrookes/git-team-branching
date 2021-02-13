@@ -1,0 +1,5 @@
+public class Nijel {
+
+system.out.println("Hello there good people");
+
+}
